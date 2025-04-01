@@ -1,0 +1,6 @@
+{
+  "jest.nodeEnv": {
+    "NODE_OPTIONS": "--experimental-vm-modules"
+  },
+  "liveServer.settings.port": 5501
+}
